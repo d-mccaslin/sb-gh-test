@@ -1,3 +1,3 @@
 # sb-gh-test
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vue-fhnhmz)
+This is a test using StackBlitz generated code for a basic VueJS project.
